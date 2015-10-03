@@ -1,0 +1,6 @@
+[package]
+name = "thread_play"
+version = "0.1.0"
+authors = ["Daniel <Werner>"]
+[dependencies]
+time = "0.1"
